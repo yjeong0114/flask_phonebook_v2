@@ -27,4 +27,3 @@ SQLAlchemy==1.4.41
 Werkzeug==2.2.2
 WTForms==3.0.1
 zipp==3.8.1
-streamlit
